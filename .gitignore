@@ -1,3 +1,6 @@
 UGDE/Library/
+UGDE/Temp/
 __init__.py
 *.swp
+*~
+
